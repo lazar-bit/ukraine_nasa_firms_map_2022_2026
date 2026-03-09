@@ -54,6 +54,7 @@ To edit or re-export the map:
 
 ## Technical Notes
 
+- **Visualization tool:** Kepler.gl
 - **Map Hosting:** GitHub Pages  
 - **Basemap:** Mapbox GL JS
 - **HTML File Size:** 27 MB
